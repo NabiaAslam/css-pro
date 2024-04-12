@@ -1,0 +1,33 @@
+
+div{
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    
+}
+p{
+    margin: 0;
+}
+#first{
+    background-color: #76885B;
+    color: #627254;
+    border: 10px solid purple;
+    text-align: center;
+    padding: 20px;
+  
+
+}
+#second{
+background-color: #496989;
+color: #58A399;
+border: solid black;
+border-width: 20px 10px;
+margin-left: 260px;
+}
+
+#third{
+    background-color:#A79277 ;
+    color: #0e0d0c;
+    margin-left: 40px;
+    border: 10px solid black;
+}
